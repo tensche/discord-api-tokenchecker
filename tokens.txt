@@ -1,0 +1,6 @@
+input your tokens here and run main.py
+e.g.
+token1
+token2
+token3
+etc..
